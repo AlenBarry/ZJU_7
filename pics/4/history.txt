@@ -1,0 +1,4 @@
+user 你好，我叫常煜杰，很高兴见到你 E:/projects/project41-LLM/7/computer_control/pics/screen.png
+assistant 你好，常煜杰！很高兴见到你。从你的电脑桌面来看，你似乎有很多工作和学习相关的软件和文件。看起来你可能对编程、数据分析和图像处理等方面很感兴趣。有什么我可以帮助你的吗？
+user 我叫什么名字？ E:/projects/project41-LLM/7/computer_control/pics/screen.png
+assistant 你的名字是常煜杰。
