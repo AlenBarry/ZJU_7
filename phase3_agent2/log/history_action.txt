@@ -1,0 +1,10 @@
+user 打开Visual<空格符>Studio<空格符>Code。 E:/projects/project41-LLM/7/phase3_agent2/tmp/screen0.png
+assistant Double<空格符>Click;[135,87,170,124];
+user 点击“Open<空格符>Folder...”选项。 E:/projects/project41-LLM/7/phase3_agent2/tmp/screen1.png
+assistant Left<空格符>Click;[320,358,410,376];
+user 在文件选择对话框的地址栏中输入<空格符>`E:\projects\project41-LLM`<空格符>并按回车键。 E:/projects/project41-LLM/7/phase3_agent2/tmp/screen2.png
+assistant Type;[360,405,821,427];E:\projects\project41-LLM<换行符>Enter;[360,405,821,427];
+user 点击“选择文件夹”按钮。 E:/projects/project41-LLM/7/phase3_agent2/tmp/screen3.png
+assistant Left<空格符>Click;[665,430,742,448];
+user 在文件夹选择对话框中，点击“选择文件夹”按钮。 E:/projects/project41-LLM/7/phase3_agent2/tmp/screen4.png
+assistant Left<空格符>Click;[665,430,742,448];

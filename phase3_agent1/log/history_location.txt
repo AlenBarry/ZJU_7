@@ -1,0 +1,10 @@
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/phase3_agent1/tmp/screen0.png
+assistant [150,94,200,143]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/phase3_agent1/tmp/screen1.png
+assistant [320,514,600,529]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/phase3_agent1/tmp/screen2.png
+assistant [320,514,600,529]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/phase3_agent1/tmp/screen3.png
+assistant [320,514,600,529]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/phase3_agent1/tmp/screen4.png
+assistant [320,514,600,529]
