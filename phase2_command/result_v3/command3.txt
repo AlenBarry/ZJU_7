@@ -1,0 +1,45 @@
+Input Sentence: 用Vscode运行E:/projects/project41-LLM/7/test.py
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step1.png
+Output: Double Click
+
+
+Input Sentence: 用Vscode运行E:/projects/project41-LLM/7/test.py
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step2.png
+Output: Left Click
+
+
+Input Sentence: 用Vscode运行E:/projects/project41-LLM/7/test.py
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step3.png
+Output: Type;E:\projects\project41-LLM\7
+
+
+Input Sentence: 用Vscode运行E:/projects/project41-LLM/7/test.py
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step4.png
+Output: Left Click
+
+
+Input Sentence: 用Vscode运行E:/projects/project41-LLM/7/test.py
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step5.png
+Output: Left Click
+
+
+Input Sentence: 用Vscode运行E:/projects/project41-LLM/7/test.py
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step6.png
+Output: Left Click
+
+
+Input Sentence: 用Vscode运行E:/projects/project41-LLM/7/test.py
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step7.png
+Output: Left Click
+
+
+Input Sentence: 用Vscode运行E:/projects/project41-LLM/7/test.py
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step8.png
+Output: Left Click
+
+
+Input Sentence: 用Vscode运行E:/projects/project41-LLM/7/test.py
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step9.png
+Output: END
+
+

@@ -1,0 +1,40 @@
+Input Sentence: 登录西安交通大学思源学堂，网址https://syxt.xjtu.edu.cn/，账号2204112910，密码whoami@721521
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step1.png
+Output: Double Click;Microsoft Edge
+
+
+Input Sentence: 登录西安交通大学思源学堂，网址https://syxt.xjtu.edu.cn/，账号2204112910，密码whoami@721521
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step2.png
+Output: Type;https://syxt.xjtu.edu.cn/
+
+
+Input Sentence: 登录西安交通大学思源学堂，网址https://syxt.xjtu.edu.cn/，账号2204112910，密码whoami@721521
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step3.png
+Output: Enter
+
+
+Input Sentence: 登录西安交通大学思源学堂，网址https://syxt.xjtu.edu.cn/，账号2204112910，密码whoami@721521
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step4.png
+Output: Left Click;登录入口》
+
+
+Input Sentence: 登录西安交通大学思源学堂，网址https://syxt.xjtu.edu.cn/，账号2204112910，密码whoami@721521
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step5.png
+Output: Left Click;学工号/手机号/NetID/身份证(Staff/Student ID/I
+
+
+Input Sentence: 登录西安交通大学思源学堂，网址https://syxt.xjtu.edu.cn/，账号2204112910，密码whoami@721521
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step6.png
+Output: Left Click;请输入密码(Please enter the password)
+
+
+Input Sentence: 登录西安交通大学思源学堂，网址https://syxt.xjtu.edu.cn/，账号2204112910，密码whoami@721521
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step7.png
+Output: Left Click;登录
+
+
+Input Sentence: 登录西安交通大学思源学堂，网址https://syxt.xjtu.edu.cn/，账号2204112910，密码whoami@721521
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step8.png
+Output: END
+
+

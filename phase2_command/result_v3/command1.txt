@@ -1,0 +1,35 @@
+Input Sentence: 给我的QQ好友abc发送祝福信息
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step1.png
+Output: Double Click
+
+
+Input Sentence: 给我的QQ好友abc发送祝福信息
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step2.png
+Output: Left Click
+
+
+Input Sentence: 给我的QQ好友abc发送祝福信息
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step3.png
+Output: Left Click
+
+
+Input Sentence: 给我的QQ好友abc发送祝福信息
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step4.png
+Output: Type;祝福信息
+
+
+Input Sentence: 给我的QQ好友abc发送祝福信息
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step5.png
+Output: Type;祝福信息
+
+
+Input Sentence: 给我的QQ好友abc发送祝福信息
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step6.png
+Output: Left Click
+
+
+Input Sentence: 给我的QQ好友abc发送祝福信息
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step7.png
+Output: END
+
+

@@ -1,0 +1,174 @@
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step1.png
+Output: 从图片中可以看出，电脑最上层的应用是“Git Bash”。Git Bash 是一个用于在 Windows 上运行 Git 命令行工具的程序，它提供了一个类 Unix 的命令行界面，使得用户可以在 Windows 系统上使用 Git 进行版本控制操作。它的图标通常是一个绿色的背景上有一个白色的“bash”字样。在这个截图中，Git Bash 的图标位于屏幕左上角的第一行第一个位置。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step2.png
+Output: 从图片中可以看出，电脑最上层的应用是QQ的登录界面。这个界面显示了一个卡通人物头像和“常”字作为用户名提示，以及一个蓝色的“登录”按钮。此外，还有“添加账号”和“移除账号”的选项。背景颜色为深紫色渐变，整体设计简洁明了，方便用户进行登录操作。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step3.png
+Output: 从图片中可以看出，电脑最上层的应用是QQ的主界面。这个界面显示了多个聊天窗口和联系人列表。在左侧的导航栏中，有“消息”、“联系人”、“群组”等选项。右侧则展示了具体的聊天内容，包括与名为“abc”的用户的对话以及一些群聊信息，如“2023-2024数学建模...”和“2024-2025数学建模...”等。背景颜色为深色系，整体设计简洁且功能齐全，方便用户进行即时通讯和信息管理。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step4.png
+Output: 从图片中可以看出，电脑最上层的应用是QQ的聊天窗口。这个窗口显示了一个与名为“abc”的用户的对话界面。在左侧的导航栏中，有多个联系人和群组的列表，包括“2023-2024数学建模...”、“2024-2025数学建模...”等。右侧则展示了与“abc”用户的聊天记录，但当前聊天内容为空白。底部有一个输入框和发送按钮，用户可以在此进行文字输入和发送消息。整体界面设计简洁明了，方便用户进行即时通讯。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step5.png
+Output: 从图片中可以看出，电脑最上层的应用是QQ的聊天窗口。这个窗口显示了一个与名为“abc”的用户的对话界面。在左侧的导航栏中，有多个联系人和群组的列表，包括“2023-2024数学建模...”、“2024-2025数学建模...”等。右侧则展示了与“abc”用户的聊天记录，但当前聊天内容为空白。底部有一个输入框和发送按钮，用户可以在此进行文字输入和发送消息。整体界面设计简洁明了，方便用户进行即时通讯。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step6.png
+Output: 从图片中可以看出，电脑最上层的应用是QQ的聊天窗口。这个窗口显示了一个与名为“abc”的用户的对话界面。在左侧的导航栏中，有多个联系人和群组的列表，包括“2023-2024数学建模...”、“2024-2025数学建模...”等。右侧则展示了与“abc”用户的聊天记录，当前聊天内容为空白，但在输入框中有一条未发送的消息：“祝你好好学习，天天开心”。底部有一个发送按钮，用户可以点击发送这条消息。整体界面设计简洁明了，方便用户进行即时通讯。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission1\step7.png
+Output: 从图片中可以看出，电脑最上层的应用是QQ的聊天窗口。这个窗口显示了一个与名为“abc”的用户的对话界面。在左侧的导航栏中，有多个联系人和群组的列表，包括“2023-2024数学建模...”、“2024-2025数学建模...”等。右侧则展示了与“abc”用户的聊天记录，当前聊天内容显示了一条消息：“祝你好好学习，天天开心”，发送时间为09:14。底部有一个输入框和发送按钮，用户可以在此进行文字输入和发送消息。整体界面设计简洁明了，方便用户进行即时通讯。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step1.png
+Output: 从图片中可以看出，电脑最上层的应用是“Git Bash”。Git Bash 是一个用于在 Windows 上运行 Git 命令行工具的程序，它提供了一个类 Unix 的命令行界面，使得用户可以在 Windows 系统上使用 Git 进行版本控制操作。它的图标通常是一个绿色的背景上有一个白色的“bash”字样。在这个截图中，Git Bash 的图标位于屏幕左上角的第一行第一个位置。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step2.png
+Output: 从图片中可以看出，电脑最上层的应用是 Firefox 浏览器。Firefox 是一个开源的网页浏览器，由 Mozilla 基金会及其子公司 Mozilla Corporation 开发。在截图中，Firefox 的界面显示了一个新标签页，页面中央有 Firefox 的标志和名称，下方有一个搜索框提示用户可以使用百度搜索或输入网址。此外，页面底部还有一排常用网站的快捷方式图标，包括知乎、爱奇艺、微博等。整个界面采用了深色主题，符合现代浏览器的设计风格。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step3.png
+Output: 从图片中可以看出，电脑最上层的应用是 Firefox 浏览器。Firefox 是一个开源的网页浏览器，由 Mozilla 基金会及其子公司 Mozilla Corporation 开发。在截图中，Firefox 的界面显示了一个新标签页，页面中央有 Firefox 的标志和名称，下方有一个搜索框提示用户可以使用百度搜索或输入网址。此外，页面底部还有一排常用网站的快捷方式图标，包括知乎、爱奇艺、微博等。整个界面采用了深色主题，符合现代浏览器的设计风格。
+
+在地址栏中，用户已经输入了“https://syxt.xjtu.edu.cn/”，这表明用户正准备访问西安交通大学思源学堂的网站。思源学堂是西安交通大学的一个在线学习平台，提供各种课程和教育资源。用户可以通过这个平台进行在线学习、查看课程资料和参与讨论等。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step4.png
+Output: 从图片中可以看出，电脑最上层的应用是 Firefox 浏览器，当前打开的是西安交通大学思源学堂的网站。思源学堂是一个在线学习平台，提供各种课程和教育资源。
+
+页面顶部显示了网站的导航栏，包括“学堂首页”、“通知公告”、“教学名师”、“精品课程”、“精品教材”、“成果获奖”、“通识课程”、“工具平台”、“帮助文档”和“关于学堂”等选项。用户可以通过这些选项访问不同的内容和服务。
+
+页面中间部分有一个滚动横幅，上面列出了常见的网络诈骗警示信息，提醒用户注意防范。下方有“在线开放课程”和“在线教学平台”的入口，用户可以点击进入相应的课程和教学资源。
+
+右侧有一个“用户登录”区域，提示用户通过数字化校园统一身份认证平台进行登录。下方还有一些通知公告，列出了最新的消息和活动信息。
+
+整体来看，这个页面设计简洁明了，方便用户快速找到所需的信息和资源。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step5.png
+Output: 从图片中可以看出，电脑最上层的应用是 Firefox 浏览器，当前打开的是西安交通大学统一身份认证网关的登录页面。这个页面用于用户通过统一的身份验证系统访问学校的各项在线服务和资源。
+
+页面顶部显示了西安交通大学的标志和名称，以及“统一身份认证网关”的标题。右上角有一个提示，建议用户使用移动交通大学APP（Mobile XJTU app）进行操作。
+
+页面中间部分是一个登录表单，分为“账号密码登录”和“短信验证码登录”两种方式。在“账号密码登录”区域，用户需要输入学工号/手机号/NetID/身份证（Staff/Student ID/Phone Number/NetID/ID Card），然后输入密码，并点击“登录”按钮进行身份验证。下方还有“新用户认证”和“忘记密码”的链接，供用户进行相应的操作。
+
+背景图像展示了西安交通大学的校园风景，给人一种清新、整洁的感觉。页面底部有开发维护信息，显示该网站由西安交通大学网络信息中心负责开发和维护，并提供了账户密码问题的联系电话。
+
+整体来看，这个登录页面设计简洁明了，方便用户快速进行身份验证并访问学校的相关在线服务。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step6.png
+Output: 从图片中可以看出，电脑最上层的应用是 Firefox 浏览器，当前打开的是西安交通大学统一身份认证网关的登录页面。这个页面用于用户通过统一的身份验证系统访问学校的各项在线服务和资源。
+
+页面顶部显示了西安交通大学的标志和名称，以及“统一身份认证网关”的标题。右上角有一个提示，建议用户使用移动交通大学APP（Mobile XJTU app）进行操作。
+
+页面中间部分是一个登录表单，分为“账号密码登录”和“短信验证码登录”两种方式。在“账号密码登录”区域，用户需要输入学工号/手机号/NetID/身份证（Staff/Student ID/Phone Number/NetID/ID Card），然后输入密码，并点击“登录”按钮进行身份验证。下方还有“新用户认证”和“忘记密码”的链接，供用户进行相应的操作。
+
+背景图像展示了西安交通大学的校园风景，给人一种清新、整洁的感觉。页面底部有开发维护信息，显示该网站由西安交通大学网络信息中心负责开发和维护，并提供了账户密码问题的联系电话。
+
+整体来看，这个登录页面设计简洁明了，方便用户快速进行身份验证并访问学校的相关在线服务。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step7.png
+Output: 从图片中可以看出，电脑最上层的应用是 Firefox 浏览器，当前打开的是西安交通大学统一身份认证网关的登录页面。这个页面用于用户通过统一的身份验证系统访问学校的各项在线服务和资源。
+
+页面顶部显示了西安交通大学的标志和名称，以及“统一身份认证网关”的标题。右上角有一个提示，建议用户使用移动交通大学APP（Mobile XJTU app）进行操作。
+
+页面中间部分是一个登录表单，分为“账号密码登录”和“短信验证码登录”两种方式。在“账号密码登录”区域，用户需要输入学工号/手机号/NetID/身份证（Staff/Student ID/Phone Number/NetID/ID Card），然后输入密码，并点击“登录”按钮进行身份验证。下方还有“新用户认证”和“忘记密码”的链接，供用户进行相应的操作。
+
+背景图像展示了西安交通大学的校园风景，给人一种清新、整洁的感觉。页面底部有开发维护信息，显示该网站由西安交通大学网络信息中心负责开发和维护，并提供了账户密码问题的联系电话。
+
+整体来看，这个登录页面设计简洁明了，方便用户快速进行身份验证并访问学校的相关在线服务。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission2\step8.png
+Output: 从图片中可以看出，电脑最上层的应用是 Firefox 浏览器，当前打开的是西安交通大学思源学堂（Blackboard Learn）平台的用户主页。这个平台是一个在线学习管理系统，用于学生和教师进行课程管理、资源分享和互动交流。
+
+页面顶部显示了西安交通大学的标志和名称，以及导航栏中的多个选项卡，包括“我的主页”、“关注的课程”、“课堂视频(外部链接)”、“选课系统”和“综合教学服务平台”。这些选项卡帮助用户快速访问不同的功能模块。
+
+页面左侧有一个工具栏，列出了各种工具和功能，如公告、日程表、任务、我的成绩、用户目录、地址簿、个人信息、应用程序授权等。用户可以通过点击这些链接进入相应的页面进行操作。
+
+中间部分是一个重要提醒区域，欢迎用户使用思源学堂平台，并提供了服务电话和QQ联系方式。同时，还有一些建议和注意事项，比如推荐使用最新版的谷歌Chrome或火狐Firefox浏览器以获得更好的系统体验，以及关于课程可用性的说明。
+
+右侧列出了用户的课程信息，包括各个课程的名称和编号，如ARTS109410音乐01(2012)、AUTO200127计算机科学与人工智能的数学基础I01(2022)等。每个课程后面还标注了当前是否可用的状态。
+
+整体来看，这个页面设计清晰，功能齐全，方便用户进行在线学习和管理。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step1.png
+Output: 从图片中可以看出，电脑最上层的应用是“Git Bash”。Git Bash 是一个用于在 Windows 上运行 Git 命令行工具的程序，它提供了一个类 Unix 的命令行界面，使得用户可以在 Windows 系统上使用 Git 进行版本控制操作。它的图标通常是一个绿色的背景上有一个白色的“bash”字样。在这个截图中，Git Bash 的图标位于屏幕左上角的第一行第一个位置。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step2.png
+Output: 电脑最上层的应用是 Visual Studio Code（简称 VS Code），这是一个由微软开发的免费、开源的代码编辑器。从截图中可以看到，VS Code 的欢迎页面已经打开，显示了“Start”和“Walkthroughs”两个主要部分。“Start”部分提供了创建新文件、打开现有文件或文件夹、克隆 Git 仓库等选项；而“Walkthroughs”部分则提供了关于如何开始使用 VS Code、Python 开发和 C++ 开发的指南。此外，页面底部还有一个复选框，用于设置是否在启动时显示欢迎页面。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step3.png
+Output: 电脑最上层的应用是一个“打开文件夹”的对话框，这通常是在用户尝试打开或选择一个文件夹时出现的。从截图中可以看到，这个对话框位于 Visual Studio Code 的欢迎页面之上，遮挡了部分 VS Code 的界面。对话框显示了一个名为“常煜杰”的文件夹内容，其中包含多个子文件夹，如“.alfabio”、“.anaconda”、“.astropy”等。此外，对话框底部还有“选择文件夹”和“取消”两个按钮，供用户进行操作。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step4.png
+Output: 电脑最上层的应用是一个“打开文件夹”的对话框，它覆盖在其他应用程序之上。这个对话框显示了路径为"E:\projects\project41-LLM7"的文件夹内容，其中包含多个子文件夹和文件。用户可以通过这个对话框浏览和选择文件夹，以便在底层的应用程序中进行进一步的操作，例如在Visual Studio Code中打开项目文件夹。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step5.png
+Output: 电脑最上层的应用是一个“打开文件夹”的对话框，它覆盖在其他应用程序之上。这个对话框显示了路径为"projects > project41-LLM > 7"的文件夹内容，其中包含多个子文件夹，如__pycache__、agent、agent2、computer_control、data、model、phase1和Oweni2.5-VL-main等。用户可以通过这个对话框浏览和选择文件夹，以便在底层的应用程序中进行进一步的操作，例如在Visual Studio Code中打开项目文件夹。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step6.png
+Output: 电脑最上层的应用是 Visual Studio Code（简称 VS Code），这是一个由微软开发的免费、开源的代码编辑器。从截图中可以看出，VS Code 的界面已经打开，并且显示了一个名为“7”的文件夹在资源管理器（Explorer）中被选中。界面左侧有多个标签，包括“OPEN EDITORS”、“OUTLINE”和“TIMELINE”，但目前没有打开任何文件进行编辑。右侧是一个较大的空白区域，通常用于显示代码或文件内容。底部的状态栏显示了当前的工作区信息和一些快捷操作按钮。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step7.png
+Output: 电脑最上层的应用是 Visual Studio Code（简称 VS Code），这是一个由微软开发的免费、开源的代码编辑器。从截图中可以看出，VS Code 的界面已经打开，并且显示了一个名为“7”的文件夹在资源管理器（Explorer）中被选中。在这个文件夹下，有多个子文件夹和文件，包括 "__pycache__"、"agent"、"agent2"、"computer_control"、"data"、"model"、"phase1"、"Qweni2.5-VL-main"、"transformers-main" 和 "实验报告" 等。此外，还有一些 Python 脚本文件如 "download.py"、"run_api.py"、"run_memory_api.py"、"run_model.py" 以及一些图片文件如 "test.png" 和 "test2.png"。右侧是一个较大的空白区域，通常用于显示代码或文件内容，但目前没有打开任何文件进行编辑。底部的状态栏显示了当前的工作区信息和一些快捷操作按钮。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step8.png
+Output: 电脑最上层的应用是 Visual Studio Code（简称 VS Code），这是一个由微软开发的免费、开源的代码编辑器。从截图中可以看出，VS Code 的界面已经打开，并且显示了一个名为“test.py”的 Python 文件在编辑器中被选中和打开。在这个文件中，有一行代码 `print(1111111111111111111)`，这行代码的作用是在控制台打印出一串数字 1。
+
+左侧的资源管理器（Explorer）显示了当前工作区的文件结构，包括多个子文件夹和文件，如 "__pycache__"、"agent"、"agent2"、"computer_control" 等。此外，还有一些 Python 脚本文件如 "download.py"、"run_api.py"、"run_memory_api.py"、"run_model.py" 以及一些图片文件如 "test.png" 和 "test2.png"。
+
+底部的状态栏显示了当前的工作区信息和一些快捷操作按钮，包括当前行号和列号（Ln 1, Col 1）、缩进设置（Spaces: 4）、编码格式（UTF-8）、换行符类型（CRLF）、Python 解释器版本（3.11.2 64-bit）等。
+
+
+Input Sentence: 输入图片是一张电脑屏幕截图，请详细描述电脑最上层的应用
+Input Picture: E:/projects/project41-LLM/7/data\mission3\step9.png
+Output: 电脑最上层的应用是 Visual Studio Code（简称 VS Code），这是一个由微软开发的免费、开源的代码编辑器。从截图中可以看出，VS Code 的界面已经打开，并且显示了一个名为“test.py”的 Python 文件在编辑器中被选中和打开。在这个文件中，有一行代码 `print(1111111111111111111)`，这行代码的作用是在控制台打印出一串数字 1。
+
+左侧的资源管理器（Explorer）显示了当前工作区的文件结构，包括多个子文件夹和文件，如 "__pycache__"、"agent"、"agent2"、"computer_control" 等。此外，还有一些 Python 脚本文件如 "download.py"、"run_api.py"、"run_memory_api.py"、"run_model.py" 以及一些图片文件如 "test.png" 和 "test2.png"。
+
+底部的状态栏显示了当前的工作区信息和一些快捷操作按钮，包括当前行号和列号（Ln 1, Col 1）、缩进设置（Spaces: 4）、编码格式（UTF-8）、换行符类型（CRLF）、Python 解释器版本（3.11.2 64-bit）等。
+
+在右下角的输出窗口中，可以看到刚刚运行的 Python 脚本的执行结果。命令行显示了运行脚本的完整路径和命令：`python -u "e:\projects\project41-LLM\7\test.py"`，并且成功打印出了数字串 `1111111111111111111`。最后，输出窗口还显示了脚本执行完毕的信息：`[Done] exited with code=0 in 0.541 seconds`，表示脚本成功执行并退出，耗时 0.541 秒。
+
+
