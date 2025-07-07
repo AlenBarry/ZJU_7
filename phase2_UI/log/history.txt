@@ -1,0 +1,36 @@
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/data\mission3\step1.png
+assistant [320,341,365,387]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:\projects\project41-LLM/7\phase2_UI/result_v1/3_step1.png
+assistant [168,170,234,235]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/data\mission3\step2.png
+assistant [350,492,618,512]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:\projects\project41-LLM/7\phase2_UI/result_v1/3_step2.png
+assistant [168,205,347,225]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/data\mission3\step3.png
+assistant [400,123,650,133]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:\projects\project41-LLM/7\phase2_UI/result_v1/3_step3.png
+assistant [130,25,490,60]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/data\mission3\step4.png
+assistant [670,432,741,448]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:\projects\project41-LLM/7\phase2_UI/result_v1/3_step4.png
+assistant [325,228,447,256]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/data\mission3\step5.png
+assistant [670,432,741,448]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:\projects\project41-LLM/7\phase2_UI/result_v1/3_step5.png
+assistant [325,228,447,256]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/data\mission3\step6.png
+assistant [280,154,360,174]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:\projects\project41-LLM/7\phase2_UI/result_v1/3_step6.png
+assistant [280,154,360,174]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/data\mission3\step7.png
+assistant [280,546,360,566]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:\projects\project41-LLM/7\phase2_UI/result_v1/3_step7.png
+assistant [168,325,240,345]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/data\mission3\step8.png
+assistant [975,116,985,126]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:\projects\project41-LLM/7\phase2_UI/result_v1/3_step8.png
+assistant [508,62,518,72]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:/projects/project41-LLM/7/data\mission3\step9.png
+assistant [975,116,985,126]
+user 用Vscode运行E:/projects/project41-LLM/7/test.py E:\projects\project41-LLM/7\phase2_UI/result_v1/3_step9.png
+assistant [508,62,518,72]
